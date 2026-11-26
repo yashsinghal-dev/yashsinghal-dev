@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Backend%20Developer-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-8A2BE2?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=yashsinghal-dev&style=for-the-badge&color=blue&label=Profile+Views" />
 </p>
 
 ---
@@ -75,11 +74,6 @@ public class Yash
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashsinghal-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsinghal-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yashsinghal-dev&theme=tokyonight&hide_border=true" />
