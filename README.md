@@ -1,79 +1,116 @@
 # Hi, I'm Yash Singhal 👋
 
-### Backend Developer | C# | .NET | PostgreSQL
+### Full Stack Developer | Angular | C# | .NET | PostgreSQL | SQL Server
 
-Backend Developer with hands-on experience in designing and developing RESTful APIs, implementing business logic, database operations, and integrating backend services with frontend applications.
+I'm a developer passionate about building modern, scalable, and user-friendly web applications. I enjoy working on both frontend and backend development, from designing interactive user interfaces to developing RESTful APIs and managing databases.
 
-Currently working at **Bharuwa Solutions Pvt. Ltd. (Patanjali Group)**, focusing on backend development and enterprise application solutions.
+Currently working at **Bharuwa Solutions (Patanjali Group)**, with professional experience in backend development and enterprise application solutions. I'm expanding my skills in frontend development to build complete end-to-end applications.
 
-### 👨‍💻 About Me
+---
 
-- Backend Developer specializing in C# and .NET technologies.
-- Experience in developing and maintaining RESTful APIs.
-- Skilled in implementing business logic, validations, and service-layer operations.
-- Experience working with PostgreSQL and SQL Server databases.
-- Hands-on experience with complex SQL queries, joins, CTEs, functions, triggers, and stored procedures.
-- Familiar with Angular for frontend integration.
-- Interested in writing clean, maintainable, and efficient backend code.
+## 👨‍💻 About Me
 
-### 💼 Professional Experience
+- 💻 Interested in Full Stack Web Development.
+- 🔹 Backend development using C# and ASP.NET Core.
+- 🔹 Frontend development using Angular.
+- 🗄️ Working with PostgreSQL and Microsoft SQL Server.
+- 🔗 Experience in REST API development and frontend-backend integration.
+- 🌱 Currently expanding my knowledge of Angular, TypeScript, Python, and modern web technologies.
+- 🎯 Goal: Build scalable, maintainable, and real-world full-stack applications.
 
-**Backend Developer — Bharuwa Solutions (Patanjali Group)**
+---
 
-- Developing and maintaining backend APIs using C# and .NET.
-- Implementing business logic, validations, and data processing.
-- Working with PostgreSQL and SQL Server for database operations.
-- Integrating APIs with frontend applications and enterprise modules.
-- Troubleshooting issues, optimizing queries, and maintaining existing applications.
+## 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
+### Frontend Development
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
 
-**Backend Development**
+### Backend Development
 - C#
 - .NET / ASP.NET Core
-- RESTful API Development
+- RESTful APIs
+- Web API Development
+- Dapper
 - API Integration
 - Business Logic & Validation
-- Service Layer Architecture
 
-**Database**
+### Databases
 - PostgreSQL
-- SQL Server
-- SQL Joins & CTEs
+- Microsoft SQL Server
+- SQL Queries
+- Joins & CTEs
 - Functions & Stored Procedures
 - Triggers
-- Query Optimization
+- Database Optimization
 
-**Frontend**
-- Angular (Integration Exposure)
-- HTML
-- CSS
-- JavaScript
+### Programming Language
+- C#
+- Python (Learning)
 
-**Development Tools**
+### Tools & Technologies
 - Visual Studio
+- Visual Studio Code
 - Git & GitHub
 - TortoiseGit
 - Postman
 
-### 🚀 Projects
+---
 
-Here are some of my development projects:
+## 💼 Professional Experience
 
-- **InventorySystem** — Inventory management application built using .NET 8 Web API and PostgreSQL.
-- More projects coming soon...
+**Backend Developer — Bharuwa Solutions (Patanjali Group)**
 
-### 🌱 Currently Improving
+- Developing and maintaining enterprise application APIs using C# and .NET.
+- Implementing business logic, validations, and service-layer operations.
+- Working with PostgreSQL and SQL Server databases.
+- Developing complex SQL queries, functions, and stored procedures.
+- Integrating backend APIs with frontend applications.
+- Troubleshooting application issues and improving database operations.
 
-- Advanced .NET Development
-- Database Performance Optimization
-- Backend Architecture
-- Data Structures & Problem Solving
+---
 
-### 📫 Connect With Me
+## 🚀 My Projects
+
+I'm building full-stack applications to strengthen my development skills and demonstrate practical knowledge.
+
+### 1. Inventory Management System
+**Tech Stack:** Angular | ASP.NET Core Web API | C# | PostgreSQL
+
+- Product and category management.
+- Inventory and stock management.
+- REST API integration.
+- Database design and management.
+- Frontend and backend integration.
+
+*Full-stack implementation in progress.*
+
+More projects coming soon!
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Angular and TypeScript
+- ASP.NET Core Web API
+- Full Stack Application Architecture
+- Python Programming
+- Database Design and Optimization
+- Authentication and Authorization
+- Deployment and Cloud Fundamentals
+
+---
+
+## 🤝 Connect With Me
 
 - GitHub: [yashsinghal-dev](https://github.com/yashsinghal-dev)
 
 ---
 
-*Building reliable backend solutions, one commit at a time.*
+⭐ Thanks for visiting my profile!
+
+*Learning, Building, and Improving Every Day.*
